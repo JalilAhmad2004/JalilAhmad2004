@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:ahmadjaleel110@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/jalil-ahmad-b0b0b4257">🔗 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/muhammad-jalil-ahmad-b0b0b4257">🔗 LinkedIn</a> •
   <a href="https://github.com/JalilAhmad2004">💻 GitHub</a>
 </p>
 
