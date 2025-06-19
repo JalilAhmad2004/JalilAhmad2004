@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Jalil Ahmad</h1>
-<h3 align="center">Cybersecurity Student | Bug Bounty Hunter | Python Developer | Web Security | Netword Security</h3>
+<h3 align="center">Cybersecurity Student | Bug Bounty Hunter | Python Developer | Web Security | Network Security</h3>
 
 <p align="center">
   <a href="mailto:ahmadjaleel110@gmail.com">📧 Email</a> •
