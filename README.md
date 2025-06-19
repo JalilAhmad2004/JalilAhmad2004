@@ -46,33 +46,34 @@ I’m a passionate **BS Cyber Security** student at FAST NUCES with hands-on exp
 ---
 
 ### 🚀 Current Roles
-- 🔬 **Research Assistant** @ Protect Lab
-- 🧑‍🏫 **Lab Demonstrator** (Networking) @ FAST NUCES
-- 🧰 **Cyber Ops Intern** — Automated OpenVAS scanning using Python
-- 💡 **Project Builder** — Real-world cybersecurity and AI tools
+- **Research Assistant** @ Protect Lab
+- **Lab Demonstrator** (Networking) @ FAST NUCES
+- **Cyber Ops Intern** — Automated OpenVAS scanning using Python
+- **Project Builder** — Real-world cybersecurity and AI tools
 
 ---
 
 ### 🏆 Highlight Projects
-- 🔐 **AI-Driven Vulnerability Prioritization**
-- 📜 **Past Explorer** (Linux history CLI)
-- 🛡 **IDS Evasion Tool** with Custom Traffic
-- 🤖 **AI-Powered Movie Translator**
-- ♟ **Human vs AI Chess Game**
-- 🧠 **Trusty Works** (React + Firebase)
-- 🎮 **Candy Crush in Assembly**
-- 📱 **Hostel Management in Flutter**
+- **AI-Driven Vulnerability Prioritization**
+- **Past Explorer** (Linux history CLI)
+- **IDS Evasion Tool** with Custom Traffic
+- **AI-Powered Movie Translator**
+- **Human vs AI Chess Game**
+- **Trusty Works** (React + Firebase)
+- **Candy Crush in Assembly**
+- **Hostel Management in Flutter**
 
 > Check my pinned repositories for more hands-on work!
 
 ---
 
 ### 📜 Certifications
-- 🧪 CompTIA Pentest+ (2025)
-- 🧰 ISC2 Certified Cybersecurity (2024)
-- 🧱 Linux & Programming Fundamentals – TCM
-- 🛰️ Nmap & Routing Mastery – Udemy
-- 🏁 NUST Hackathon Finalist
+- Google Cybersecurity Professional Certificate (2025)
+- CompTIA Pentest+ (2025)
+- ISC2 Certified Cybersecurity (2024)
+- Linux & Programming Fundamentals – TCM
+- Nmap & Routing Mastery – Udemy
+- NUST Hackathon Finalist
 
 ---
 
